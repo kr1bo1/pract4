@@ -1,0 +1,7 @@
+C:\Users\krist\source\repos\практика 4\практика 4\bin\Debug\практика 4.exe.config
+C:\Users\krist\source\repos\практика 4\практика 4\bin\Debug\практика 4.exe
+C:\Users\krist\source\repos\практика 4\практика 4\bin\Debug\практика 4.pdb
+C:\Users\krist\source\repos\практика 4\практика 4\obj\Debug\практика 4.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\практика 4\практика 4\obj\Debug\практика 4.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\практика 4\практика 4\obj\Debug\практика 4.exe
+C:\Users\krist\source\repos\практика 4\практика 4\obj\Debug\практика 4.pdb
